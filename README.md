@@ -1,2 +1,7 @@
-# DrivingSchoolManageSystem
-驾校管理系统
+# 驾校管理系统
+大一实训项目
+基于Java Swing的轻量级桌面应用
+## 📌 项目简介  
+本系统为驾校机构提供全流程信息化管理解决方案 
+## 🧩环境要求  
+JDK 8+ / MySQL 8.0+
